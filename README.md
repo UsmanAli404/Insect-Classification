@@ -19,8 +19,6 @@ The model is trained to classify insects into the following categories:
 
 Each class includes approximately **2,000 images**, giving the model a balanced dataset for learning.
 
----
-
 ## 📊 Performance
 
 | Metric              | Accuracy |
@@ -28,8 +26,6 @@ Each class includes approximately **2,000 images**, giving the model a balanced 
 | Training Accuracy   | 97%      |
 | Validation Accuracy | 91%      |
 | Testing Accuracy    | 91%      |
-
----
 
 ## 🗃️ Dataset
 
