@@ -54,18 +54,18 @@ The dataset used in this project is based on the following Kaggle notebook:
 
 - ✅ **High Accuracy** insect classification  
 - 🖼️ **Interactive Gradio Interface** for real-time predictions  
-- 📈 **Visualizations** for training history, class distributions, and confusion matrix  
+- 📈 **Visualizations** for sample training images, training history, class distributions, and confusion matrix and more  
 - 🧹 Clean and well-commented Google Colab notebook for easy understanding and experimentation
 
 ## 🚀 Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/insect-classification.git
-   cd insect-classification
+   git clone https://github.com/UsmanAli404/Insect-Classification.git
+   cd Insect-Classification
    ```
 
-2. Open the `insect_classification.ipynb` in Google Colab.
+2. Open the `Insect_Classification.ipynb` in Google Colab.
 
 3. Run all cells to:
    - Load and preprocess data  
@@ -89,4 +89,4 @@ Thanks to the authors and contributors of the Kaggle dataset, and the open-sourc
 
 ## 📬 Contact
 
-For questions or collaboration inquiries, feel free to reach out via GitHub or email.
+For questions or collaboration inquiries, feel free to reach out via [github](https://github.com/UsmanAli404/) or email: aottoman551@gmail.com.
